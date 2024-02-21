@@ -1,0 +1,118 @@
+{
+    "data" : {
+        "information":{
+            "name": "Miguel",
+            "lastname": "Hernandez",
+            "birthdate": "11-06-1996",
+            "age": 27,
+            "phone": "8342154699",
+            "email": "mhernandezrdz96@gmail.com",
+            "gender": "male",
+            "about": "Software Developer with 5 years of experience, working with web, mobile and desktop applications. I specialize in Fullstack web development. I’m an enthusiastic person and eager to have new challenges looking foward for opportunities in different fields of technology. ",
+            "softskills":["Goal Oriented", "Serviceful", "Communicative", "Resilience", "Teamwork", "Adaptive", "Time Management", "Organizational", "Respectful"],
+            "skills":["Python", "Django", "Django Rest Framework", "FastAPI", "Javascript", "HTML/CSS", "TailwindCSS", "Bootstrap", "TypeScript", "React", "Nextjs", "Linux", "Windows","Uvicorn", "Gunicorn", "Nginx", "Certbot", "SSL", "AWS", "EC2", "Lambda", "DynamoDB", "ApiGateway", "CloudWatch", "PostgreSQL", "Docker", "NetSuite", "SuiteScript", "SuiteTalk","JIRA", "Agile", "SCRUM", "Git", "Github", "GitFlow", "GitBash","CommandPrompt", "VueJs", "Android", "Java", "Kotlin", "Firebase", "Push Notifications", "GoogleMaps API"], 
+            "languages":["Spanish(Native)", "English(B2/Conversational)"],
+            "city": "Ciudad Victoria",
+            "state": "Tamaulipas",
+            "country":"Mexico"
+        },
+        "media":{
+            "profilepic":"/img/profile_1.jpg",
+            "resume":"/docs/Resume.pdf",
+            "linkedin":"linkedin.svg",
+            "github":"github.svg"
+        },
+        "socialmedia":{
+            "linkedin":"https://www.linkedin.com/in/miguel-angel-hern%C3%A1ndez-rodr%C3%ADguez-645a3418a/",
+            "github":"https://github.com/mrdz96"
+        },
+        "experience":{
+            "jobs":[
+                {
+                    "jobTitle": "Software Developer",
+                    "company": "Yuhu.mx",
+                    "startDate": "04/10/2021",
+                    "endDate": "16/02/2024",
+                    "description": "Development of web software applications and APIs",
+                    "activities":[
+                        "Development, implementation and deployment of Rest API to interconnect services with the NetSuite ERP for the creation of records, such as sales invoices, purchase invoices, credit notes, journal entries, customer records, suppliers, cash sales, products and purchase orders.", 
+                        "Meetings with the collection team",
+                        "Endpoints and APIs development to connect with ERP System NetSuite.",
+                        "Project Deployment." ,
+                        "Development of frontend user interfaces.", 
+                        "Development of CRM Modules to visualize and create data." 
+                    ],
+                    "technologies": ["Python", "Django", "Django Rest Framework", "FastAPI", "Javascript", "HTML/CSS", "TailwindCSS", "Bootstrap", "TypeScript", "React", "Nextjs", "Node ","Linux",
+                                    "Windows","Uvicorn", "Gunicorn", "Nginx", "Certbot", "SSL", "AWS", "EC2", "PostgreSQL", "Docker", "NetSuite", "SuiteScript", "SuiteTalk", "JIRA", "Agile", "SCRUM",
+                                    "Git", "Github", "GitFlow", "GitBash","CommandPrompt"]
+                },
+                {
+                    "jobTitle": "Software Developer",
+                    "company": "High Technologies Analytics",
+                    "startDate": "17/03/2021",
+                    "endDate": "30/09/2021",
+                    "description": "Development of web software applications",
+                    "activities":["Development of Statistics CRM modules.", "Development of WebApp Modules." ],
+                    "technologies": ["Python", "Django", "Javascript", "jQuery", "AJAX", "Bootstrap", "HTML/CSS", "MySQL", "Linux"]
+                },
+                {
+                    "jobTitle": "Software Developer",
+                    "company": "Altas Cumbres Applied Technologies",
+                    "startDate": "01/08/2019",
+                    "endDate": "13/03/2021",
+                    "description": "Development of software applications and Mobile Apps",
+                    "activities":["Development of CRM modules, reports, image modules, statistics, employees, calendars", "Development of Android Apps"],
+                    "technologies": ["Python", "Django", "Javascript", "Bootstrap", "VueJs", "Android", "Java", "Kotlin", "Firebase", "Push Notifications", "GoogleMaps API", "jQuery", "AJAX"]
+                }
+            ],
+            "projects": [
+                {
+                    "name": "Pokedex",
+                    "img": "source",
+                    "repository": "https://github.com/mrdz96/pokedex",
+                    "link" : "url"
+                },
+                {
+                    "name": "Pokedex",
+                    "img": "source",
+                    "repository": "https://github.com/mrdz96/pokedex",
+                    "link" : "url"
+                },
+                {
+                    "name": "Pokedex",
+                    "img": "source",
+                    "repository": "https://github.com/mrdz96/pokedex",
+                    "link" : "url"
+                },
+                {
+                    "name": "Pokedex",
+                    "img": "source",
+                    "repository": "https://github.com/mrdz96/pokedex",
+                    "link" : "url"
+                },
+                {
+                    "name": "Pokedex",
+                    "img": "source",
+                    "repository": "https://github.com/mrdz96/pokedex",
+                    "link" : "url"
+                },
+                {
+                    "name": "Pokedex",
+                    "img": "source",
+                    "repository": "https://github.com/mrdz96/pokedex",
+                    "link" : "url"
+                }
+            ]
+            
+        },
+        "education": [
+            {
+                "degree":"Bachelor's Degree in Information Technologies",
+                "specialization":"Information Technologies Engineering",
+                "institution":"Universidad Politecnica de Victoria (UPV)", 
+                "startYear": "08/2015",
+                "endYear": "12/2018"
+            }
+        ]
+    }
+}
