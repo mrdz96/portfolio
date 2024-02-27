@@ -12,7 +12,7 @@ export default async function Page() {
   const socialmedia = data.data.socialmedia
   const education = data.data.education
   return (
-    <div className='max-w-md mx-auto md:max-w-3xl mt-5 font-mono md:text-md'>
+    <div className='max-w-md mx-auto md:max-w-5xl mt-5 mb-5 font-mono md:text-md'>
         {/* MENU */}
 
         {/* ----------------------------- INFORMATION -------------------------------*/}
@@ -66,7 +66,7 @@ export default async function Page() {
                 projects.map((item, index) => (
                   <div key={index} className='border m-1 rounded-xl p-5 hover:bg-black hover:border-black'>
                     <h3 className='underline'>{item.name}</h3>
-                    <img className='rounded-xl' src={media.profilepic} alt={item.name}/>
+                    <img className='rounded-xl' src={item.img} alt={item.name}/>
                     {/* <ul className='list-disc list-inside md:ml-10 ml-4'>
                         {item.activities.map((activity, activityIndex)=>(
                             <li key={activityIndex}>{activity}</li>

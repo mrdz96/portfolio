@@ -67,38 +67,38 @@
             ],
             "projects": [
                 {
-                    "name": "Pokedex",
-                    "img": "source",
+                    "name": "Project",
+                    "img": "/img/dummy.jpg",
                     "repository": "https://github.com/mrdz96/pokedex",
                     "link" : "url"
                 },
                 {
-                    "name": "Pokedex",
-                    "img": "source",
+                    "name": "Project",
+                    "img": "/img/dummy.jpg",
                     "repository": "https://github.com/mrdz96/pokedex",
                     "link" : "url"
                 },
                 {
-                    "name": "Pokedex",
-                    "img": "source",
+                    "name": "Project",
+                    "img": "/img/dummy.jpg",
                     "repository": "https://github.com/mrdz96/pokedex",
                     "link" : "url"
                 },
                 {
-                    "name": "Pokedex",
-                    "img": "source",
+                    "name": "Project",
+                    "img": "/img/dummy.jpg",
                     "repository": "https://github.com/mrdz96/pokedex",
                     "link" : "url"
                 },
                 {
-                    "name": "Pokedex",
-                    "img": "source",
+                    "name": "Project",
+                    "img": "/img/dummy.jpg",
                     "repository": "https://github.com/mrdz96/pokedex",
                     "link" : "url"
                 },
                 {
-                    "name": "Pokedex",
-                    "img": "source",
+                    "name": "Project",
+                    "img": "/img/dummy.jpg",
                     "repository": "https://github.com/mrdz96/pokedex",
                     "link" : "url"
                 }
